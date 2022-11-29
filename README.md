@@ -40,15 +40,22 @@ Procedure:
 
 
 ## Program 
-// Roll no:
+// Roll no:212221230067
 
-//Name:
-MoveJ ................
+//Name:M.PAVAN
+ 
 
 ## output : 
 
+![image](https://user-images.githubusercontent.com/94828517/204611944-0ba13fa0-7807-45ef-9723-d7b6d5c6edd2.png)
+![image](https://user-images.githubusercontent.com/94828517/204611983-682c5748-c012-4bfe-a138-ba487deef5a5.png)
+![image](https://user-images.githubusercontent.com/94828517/204612020-67fc2b2c-ea1b-4b3a-8bf4-5c6d863f221b.png)
+![image](https://user-images.githubusercontent.com/94828517/204612043-c39a735d-8e9a-4ddf-8701-7012fe613ffa.png)
 
-## Results: 
+
+## Results:
+
+A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully.
 
 
 
